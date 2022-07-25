@@ -10,13 +10,13 @@
 
 ### <b>Day Planner</b>
 
-![](./images/Work-Day-ScheduleScreenshot.jpg)
+![](./assets/images/Work-Day-ScheduleScreenshot.jpg)
 
 ### <b>Past</b> color-coded is <b>grey</b>:
-![](./images/Past-grey-codedScreenshot.jpg)
+![](./assets/images/Past-grey-codedScreenshot.jpg)
 
 ### <b>Present</b> color-coded is <b>red</b>
-![](./images/Present-red-codedScreenshot.jpg)
+![](./assets/images/Present-red-codedScreenshot.jpg)
 
 ### <b>Future</b> color-coded is <b>green</b>
-![](./images/Future-green-codedScreenshot.jpg)
+![](./assets/images/Future-green-codedScreenshot.jpg)
