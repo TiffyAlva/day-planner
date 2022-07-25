@@ -1,7 +1,7 @@
 var name = "John"
 
 var greetings = "Hello! My name is " + name + ". Greetings!";
-// Hello! My name is John. Greetings! (examples from tutoring).
+// Hello! My name is John. Greetings! (example from tutoring).
 
 //current Time
 var currentTime = moment().format("H");
