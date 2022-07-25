@@ -15,8 +15,8 @@
 ### <b>Past</b> color-coded is <b>grey</b>:
 ![](./assets/images/Past-grey-codedScreenshot.jpg)
 
-### <b>Present</b> color-coded is <b>red</b>
+### <b>Present</b> color-coded is <b>red</b>:
 ![](./assets/images/Present-red-codedScreenshot.jpg)
 
-### <b>Future</b> color-coded is <b>green</b>
+### <b>Future</b> color-coded is <b>green</b>:
 ![](./assets/images/Future-green-codedScreenshot.jpg)
