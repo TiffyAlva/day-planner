@@ -1,5 +1,5 @@
 # Day-Planner
-### Deployed Link: https://tiffyalva.github.io/day-planner/
+### Deployed Link: https://tiffyalva.github.io/day-planner-challenge-5/
 
 ## Module 5 Challenge
 
