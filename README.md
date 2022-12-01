@@ -1,5 +1,5 @@
 # Day-Planner
-### Deployed Link: https://tiffyalva.github.io/day-planner-challenge-5/
+### Deployed Link: https://tiffyalva.github.io/day-planner/
 
 - ### The <b>user story</b> wanted to add important events to daily planner.
 - ### When users enter an event and click save button, the text for that event is saved in local storage.
