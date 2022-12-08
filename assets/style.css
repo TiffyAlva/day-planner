@@ -20,6 +20,8 @@ body {
     border-radius: 0;
     border-bottom: 10px solid black;
   }
+
+  
   
   .description{
     white-space: pre-wrap;
@@ -69,3 +71,14 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+
+
+
+  @media (min-width: 576px)
+  {
+    .jumbotron {
+      padding: 4rem 2rem;
+    }
+  }
+
+    
